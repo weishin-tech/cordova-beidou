@@ -1,0 +1,11 @@
+{
+  "dev": {
+    "config-file": http://beidou.weishin-tech.com.tw/mobile/files/chcp.json"
+  },
+  "production": {
+    "config-file": "http://beidou.weishin-tech.com.tw/mobile/files/chcp.json"
+  },
+  "QA": {
+    "config-file": "http://beidou.weishin-tech.com.tw/mobile/files/chcp.json"
+  }
+}
